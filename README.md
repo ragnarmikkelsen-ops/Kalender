@@ -1,4 +1,3 @@
-[README_Kalender_repo.md](https://github.com/user-attachments/files/28834674/README_Kalender_repo.md)
 # Kalender
 
 Mine kalendre, gjerne for deling.
